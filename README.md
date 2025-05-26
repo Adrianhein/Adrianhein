@@ -61,6 +61,16 @@
 [![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
 ![ITIL Practice](https://img.shields.io/badge/ITIL-Practice-0052CC?style=flat&logo=book&logoColor=white)
 
+### Certificates of achievement:
+![RHCSA](https://img.shields.io/badge/RHCSA-Certified-red)
+
+![RHCE](https://img.shields.io/badge/RHCE-Certified-red)
+
+![Red Hat Certified Container Specialist](https://img.shields.io/badge/RedHat-Certified_Container_Specialist-red)
+
+![LinkedIn Learning - SQL Programming](https://img.shields.io/badge/LinkedIn_Learning-SQL_Programming-blue)
+
+
 ### To reach me:
 
 <div display="flex">
