@@ -66,7 +66,7 @@
 
 ![RHCE](https://img.shields.io/badge/RHCE-Certified-red)
 
-![Red Hat Certified Container Specialist](https://img.shields.io/badge/RedHat-Certified_Container_Specialist-red)
+![Red Hat Certified Specialist In Container Management](https://img.shields.io/badge/RedHat-Certified_Container_Specialist-red)
 
 ![LinkedIn Learning - SQL Programming](https://img.shields.io/badge/LinkedIn_Learning-SQL_Programming-blue)
 
