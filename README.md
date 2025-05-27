@@ -103,3 +103,7 @@ FIDE ID 13023705
 FIDE PROFILE [♜](https://ratings.fide.com/profile/13023705)
 
 
+# test
+<a lang='my-en' id='mcalr' href='https://yan9a.github.io/mmcal/'>Myanmar Calendar</a>
+<script src='https://yan9a.github.io/mmcal/mcalrs.js'></script>
+
