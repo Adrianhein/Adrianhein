@@ -103,7 +103,3 @@ FIDE ID 13023705
 FIDE PROFILE [♜](https://ratings.fide.com/profile/13023705)
 
 
-<iframe src="https://yan9a.github.io/mmcal" width="100%" height="600px" style="border:none;"></iframe>
-
-
-
