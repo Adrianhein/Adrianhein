@@ -1,4 +1,9 @@
+
+<div align="center">
+
 ![Tin Aung Hein](https://img.shields.io/badge/TIN%20AUNG%20HEIN-green)
+
+</div>
 
     Hi !
 
