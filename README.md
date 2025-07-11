@@ -33,6 +33,8 @@
 
 ![RHCSA](https://img.shields.io/badge/RHCSA-Certified-red)
 
+![RHCE EX294](https://img.shields.io/badge/Red%20Hat%20Certified‑Engineer%20EX294-red?logo=redhat&logoColor=white&style=flat-square)
+
 ![RHCE](https://img.shields.io/badge/Red%20Hat%20Certified-Engineer-red?logo=redhat&logoColor=white&style=flat-square)
 
 ![Red Hat Certified OpenShift Administrator](https://img.shields.io/badge/Red%20Hat%20Certified-OpenShift%20Administrator-red?logo=redhat&logoColor=white&style=flat-square)
