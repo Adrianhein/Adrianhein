@@ -37,6 +37,8 @@
 
 ![Red Hat Certified OpenShift Administrator](https://img.shields.io/badge/Red%20Hat%20Certified-OpenShift%20Administrator[EX280]-red?logo=redhat&logoColor=white&style=flat-square)
 
+![Red Hat Certified Specialist In Container Management](https://img.shields.io/badge/Red%20Hat%20Certified-Container%20Specialist-red?logo=redhat&logoColor=white&style=flat-square)
+
 ![Red Hat Certified Specialist In Container Management](https://img.shields.io/badge/RedHat-Certified_Container_Specialist-red)
 
 ![LinkedIn Learning - SQL Programming](https://img.shields.io/badge/LinkedIn_Learning-SQL_Programming-blue)
