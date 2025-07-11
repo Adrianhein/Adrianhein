@@ -33,9 +33,9 @@
 
 ![RHCSA](https://img.shields.io/badge/RHCSA-Certified-red)
 
-![RHCE](https://img.shields.io/badge/Red%20Hat%20Certified-Engineer[EX294]-red?logo=redhat&logoColor=white&style=flat-square)
+![RHCE](https://img.shields.io/badge/Red%20Hat%20Certified-Engineer[EX-294]-red?logo=redhat&logoColor=white&style=flat-square)
 
-![Red Hat Certified OpenShift Administrator](https://img.shields.io/badge/Red%20Hat%20Certified-OpenShift%20Administrator-red?logo=redhat&logoColor=white&style=flat-square)
+![Red Hat Certified OpenShift Administrator](https://img.shields.io/badge/Red%20Hat%20Certified-OpenShift%20Administrator[EX-280]-red?logo=redhat&logoColor=white&style=flat-square)
 
 ![Red Hat Certified Specialist In Container Management](https://img.shields.io/badge/RedHat-Certified_Container_Specialist-red)
 
