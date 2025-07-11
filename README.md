@@ -31,7 +31,7 @@
 
 ### Certificates of achievement:
 
-![RHCSA](https://img.shields.io/badge/Red%20Hat%20Certified-System%20Administrator-red?logo=redhat&logoColor=white&style=flat-square)
+![RHCSA](https://img.shields.io/badge/Red%20Hat%20Certified-System%20Administrator[EX200]-red?logo=redhat&logoColor=white&style=flat-square)
 
 ![RHCE](https://img.shields.io/badge/Red%20Hat%20Certified-Engineer[EX294]-red?logo=redhat&logoColor=white&style=flat-square)
 
